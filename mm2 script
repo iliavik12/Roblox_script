@@ -1,0 +1,9 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/MarsQQ/ScriptHubScripts/master/MM2%20Admin%20Panel'),true))()
+print("admin panel active")
+  --admin panel 
+  --role detector
+  --esp
+  --fly and inf jump
+  --auto farm coins
+  --kill murder and sheriff
+  
